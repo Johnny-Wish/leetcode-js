@@ -29,3 +29,4 @@ const reverse = function(x) {
 };
 
 console.log(reverse(12345));
+console.log(reverse(-1234));
