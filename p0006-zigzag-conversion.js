@@ -40,10 +40,9 @@ const convert = function(s, numRows) {
 console.log(convert('PAYPALISHIRING', 4));
 console.log(convert('A', 1));
 
-// x     x
-// x    xx
-// x   x x
-// x  x  x
-// x x   x
-// xx    x
-// x     x
+// x    x
+// x   xx
+// x  x x
+// x x  x
+// xx   x
+// x    x
