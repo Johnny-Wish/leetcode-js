@@ -9,4 +9,6 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
   - To implement Manacher's Algorithm which has O(n) complexity
 - Problem 10. Regular Expression Matching
   - To implement parser, compiler, matcher based on DFA/NFA for general regex
+- Problem 23. Merge k Sorted Lists
+  - To implement [priority queue](https://leetcode.com/problems/merge-k-sorted-lists/solution/) algorithm.
 
