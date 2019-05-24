@@ -21,3 +21,6 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
 
 - [x] To solve the problem with tail recursion algorithm
 
+5. Problem 28. Implement strStr()
+
+- [ ] To implement KMP algorithm
