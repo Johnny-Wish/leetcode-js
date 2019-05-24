@@ -24,3 +24,7 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
 5. Problem 28. Implement strStr()
 
 - [ ] To implement KMP algorithm
+
+6. Problem 30 Substring with Concatenation of All Words
+ 
+- [ ] Make efficient, now using DFS
