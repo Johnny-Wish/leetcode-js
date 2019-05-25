@@ -36,3 +36,7 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
 8. Problem 44 Wildcard Matching
 
 - [ ] implment bottom-up dynamic planning, currently beating 54%/20%
+
+9. Problem 45 Jump Game II
+
+- [ ] implment [greedy alg](https://leetcode.com/problems/jump-game-ii/discuss/297992/Javascript-dp-andand-greedy), currently beating 14%/36%
