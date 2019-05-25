@@ -28,3 +28,7 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
 6. Problem 30 Substring with Concatenation of All Words
  
 - [ ] Make efficient, now using DFS
+
+7. Problem 35 Search Insert Position
+ 
+- [ ] Figure out the principle
