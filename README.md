@@ -32,3 +32,7 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
 7. Problem 35 Search Insert Position
  
 - [ ] Figure out the principle
+
+8. Problem 44 Wildcard Matching
+
+- [ ] implment bottom-up dynamic planning, currently beating 54%/20%
