@@ -7,40 +7,44 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
 ## TODO List
 1. Problem 5. Longest Palindromic Substring
 
-- [ ] To implement Manacher's Algorithm which has O(n) complexity
+  - [ ] To implement Manacher's Algorithm which has O(n) complexity
 
 2. Problem 10. Regular Expression Matching
 
-- [ ] To implement parser, compiler, matcher based on DFA/NFA for general regex
+  - [ ] To implement parser, compiler, matcher based on DFA/NFA for general regex
 
 3. Problem 23. Merge k Sorted Lists
 
-- [ ] To implement [priority queue](https://leetcode.com/problems/merge-k-sorted-lists/solution/) algorithm.
+  - [ ] To implement [priority queue](https://leetcode.com/problems/merge-k-sorted-lists/solution/) algorithm.
 
 4. Problem 25. Reverse Nodes in k-Group UNSOLVED*
 
-- [x] To solve the problem with tail recursion algorithm
+  - [x] To solve the problem with tail recursion algorithm
 
 5. Problem 28. Implement strStr()
 
-- [ ] To implement KMP algorithm
+  - [ ] To implement KMP algorithm
 
 6. Problem 30 Substring with Concatenation of All Words
  
-- [ ] Make efficient, now using DFS
+  - [ ] Make efficient, now using DFS
 
 7. Problem 35 Search Insert Position
  
-- [ ] Figure out the principle
+  - [ ] Figure out the principle
 
 8. Problem 44 Wildcard Matching
 
-- [ ] implment bottom-up dynamic planning, currently beating 54%/20%
+  - [ ] implment bottom-up dynamic planning, currently beating 54%/20%
 
 9. Problem 45 Jump Game II
 
-- [ ] implment [greedy alg](https://leetcode.com/problems/jump-game-ii/discuss/297992/Javascript-dp-andand-greedy), currently beating 14%/36%
+  - [ ] implment [greedy alg](https://leetcode.com/problems/jump-game-ii/discuss/297992/Javascript-dp-andand-greedy), currently beating 14%/36%
 
 10. Problem 53 Maximum Subarray
 
-- [ ] implment divide-and-conquer approach, currently beating 97%/8%
+  - [ ] implment divide-and-conquer approach, currently beating 97%/8%
+
+11. Problem 55 Jump Game
+
+  - [ ] make efficient, currently beating 28%/39%
