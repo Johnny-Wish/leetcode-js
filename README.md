@@ -40,3 +40,7 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
 9. Problem 45 Jump Game II
 
 - [ ] implment [greedy alg](https://leetcode.com/problems/jump-game-ii/discuss/297992/Javascript-dp-andand-greedy), currently beating 14%/36%
+
+10. Problem 53 Maximum Subarray
+
+- [ ] implment divide-and-conquer approach, currently beating 97%/8%
