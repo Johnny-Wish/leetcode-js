@@ -49,7 +49,7 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
 
   - [ ] make efficient, currently beating 28%/39%
 
-11. Problem 57 Insert Interval __UNSOLVED__
+11. Problem 57 Insert Interval 
 
-  - [ ] to solve the problem
+  - [x] to solve the problem
 
