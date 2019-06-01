@@ -55,5 +55,9 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
 
 13. Problem 72 Edit Distance
 
-  - [ ] Learn more about Levenshtein distance / edit distance
+  - [ ] learn more about Levenshtein distance / edit distance
+
+14. Problem 73 Set Matrix Zeros
+
+  - [ ] implement a O(1) space algorithm
 
