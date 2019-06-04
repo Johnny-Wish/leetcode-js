@@ -69,3 +69,7 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
 
   - [ ] make efficient, currently beating 50%
 
+16. Problem 81 Search in Rotated Sorted Array
+
+  - [ ] figure out the first scenario
+
