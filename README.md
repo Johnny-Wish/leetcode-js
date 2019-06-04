@@ -65,3 +65,7 @@ See more on my LeetCode account page: [Johnny_Liu](https://leetcode.com/johnny_l
 
   - [ ] implement a one-pass algorithm with O(1) space
 
+15. Problem 76 Minimum Window Substring
+
+  - [ ] make efficient, currently beating 50%
+
